@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppDDBB</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="telephone_input">Phone number:</string>
+    <string name="send_btn_text">Send</string>
+    <string name="name_input">Name:</string>
+    <string name="surname_input">Surname:</string>
+    <string name="more_phone_num">Do you want to add another phone?</string>
+</resources>

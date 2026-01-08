@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppDDBB</string>
+    <string name="welcome_msg">Bienvenido!</string>
+    <string name="name_input">Nombre:</string>
+    <string name="surname_input">Apellido:</string>
+    <string name="telephone_input">Teléfono:</string>
+    <string name="send_btn_text">Enviar</string>
+    <string name="more_phone_num">Desea agregar otro teléfono?</string>
 </resources>
